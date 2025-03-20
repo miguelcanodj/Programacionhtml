@@ -191,3 +191,9 @@ img {
   margin-top: 20px;
   cursor: pointer;
 }
+
+.box img {
+  width: 100%;
+  border: 2px solid var(--secondary-color);
+  border-radius: 20px;
+}
